@@ -2,6 +2,7 @@
   "name": "webscrapping",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -15,8 +16,9 @@
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
     "save": "^2.4.0",
-    "user-agents": "^1.0.779",
-    "web-vitals": "^1.1.2"
+    "user-agents": "^1.0.779"
+    
+  
   },
   "scripts": {
     "start": "react-scripts start",

@@ -1,6 +1,6 @@
-const request = require('request');
+import request from "request";
 // const request = require('request-promise');
-const cheerio = require('cheerio');
+import cheerio from "cheerio";
 
 // using request and callbacks
 
